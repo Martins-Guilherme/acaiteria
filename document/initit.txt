@@ -1,0 +1,3 @@
+Inicialização do projeto no terminal:
+
+ngrok http 8080

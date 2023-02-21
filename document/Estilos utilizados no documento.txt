@@ -1,0 +1,8 @@
+Paleta de cores utilizadas:
+
+https://colorhunt.co/palette/ad7be93e54acbfdce5eeeeee
+
+1° #AD7BE9 = purple
+2° #3E54AC = navy
+3° #BFDCE5 = grey
+4° #EEEEEEFF = cold
