@@ -5,13 +5,50 @@ https://colorhunt.co/palette/ad7be93e54acbfdce5eeeeee
 1° #AD7BE9 = purple
 2° #3E54AC = navy
 3° #BFDCE5 = grey
-4° #EEEEEEFF = cold
+4° #E7E7E7FF = Background color
 
+
+https://color.adobe.com/
+
+Color Theme Swatches in RGBA
+
+.Açaiteria-1-rgba { color: rgba(74, 193, 255, 1); }
+.Açaiteria-2-rgba { color: rgba(67, 122, 232, 1); }
+.Açaiteria-3-rgba { color: rgba(87, 87, 255, 1); }
+.Açaiteria-4-rgba { color: rgba(174, 143, 235, 1); }
+.Açaiteria-5-rgba { color: rgba(186, 39, 255, 1); }
+	 
+	 Color Theme Swatches in Hex 
+
+.Açaiteria-1-hex { color: #4AC1FF; }
+.Açaiteria-2-hex { color: #437AE8; }
+.Açaiteria-3-hex { color: #5757FF; }
+.Açaiteria-4-hex { color: #AE8FEB; }
+.Açaiteria-5-hex { color: #BA27FF; }
+
+
+https://color.adobe.com/pt/trends/Ui/ux
+
+/* Color Theme Swatches in Hex */
+.10Clouds.Design-1-hex { color: #3B42BF; }
+.10Clouds.Design-2-hex { color: #6273D9; }
+.10Clouds.Design-3-hex { color: #7790D9; }
+.10Clouds.Design-4-hex { color: #A7BAF2; }
+.10Clouds.Design-5-hex { color: #F2F2F2; }
+
+/* Color Theme Swatches in RGBA */
+.10Clouds.Design-1-rgba { color: rgba(59, 65, 191, 1); }
+.10Clouds.Design-2-rgba { color: rgba(97, 115, 216, 1); }
+.10Clouds.Design-3-rgba { color: rgba(119, 143, 216, 1); }
+.10Clouds.Design-4-rgba { color: rgba(167, 185, 242, 1); }
+.10Clouds.Design-5-rgba { color: rgba(242, 242, 242, 1); }
 
 
 Fonte Utilizada:
 
+Phudu: Regular 400 /	Light 300
 
+Roboto Slab: Regular 400
 
 
 
