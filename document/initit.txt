@@ -1,3 +1,4 @@
-Inicialização do projeto no terminal:
+Inicialização do projeto no terminal utilizando o ngrok para espelhar as alterações no dispositivo móvel e não atrapalhar ficar mudando de janelas.
+
 
 ngrok http 8080
